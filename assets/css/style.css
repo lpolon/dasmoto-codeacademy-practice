@@ -1,0 +1,38 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.15;
+  padding: 5px;
+}
+
+strong {
+  color: blue;
+}
+
+h1 {
+  margin: 50px 0;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url(../images/pattern.jpeg);
+  text-align: center;
+}
+
+h2 {
+  margin: 20px 0;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  /* opacity: .5; */
+}
+
+.section-1 h2 {
+  background-color: mediumspringgreen;
+}
+
+.section-2 h2 {
+  background-color: lightcoral;
+}
+
+.section-3 h2 {
+  background-color: skyblue;
+}
